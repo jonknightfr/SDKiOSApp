@@ -1,0 +1,6 @@
+framework module FRAuthenticator {
+  umbrella header "FRAuthenticator-umbrella.h"
+
+  export *
+  module * { export * }
+}

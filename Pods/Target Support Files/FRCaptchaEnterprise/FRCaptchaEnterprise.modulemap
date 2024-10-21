@@ -1,0 +1,6 @@
+framework module FRCaptchaEnterprise {
+  umbrella header "FRCaptchaEnterprise-umbrella.h"
+
+  export *
+  module * { export * }
+}

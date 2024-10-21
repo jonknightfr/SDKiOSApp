@@ -1,0 +1,14 @@
+${PODS_ROOT}/Target Support Files/Pods-SDK App/Pods-SDK App-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FRAuth/FRAuth.framework
+${BUILT_PRODUCTS_DIR}/FRAuthenticator/FRAuthenticator.framework
+${BUILT_PRODUCTS_DIR}/FRCore/FRCore.framework
+${BUILT_PRODUCTS_DIR}/FRDeviceBinding/FRDeviceBinding.framework
+${BUILT_PRODUCTS_DIR}/FRFacebookSignIn/FRFacebookSignIn.framework
+${BUILT_PRODUCTS_DIR}/FRProximity/FRProximity.framework
+${BUILT_PRODUCTS_DIR}/JOSESwift/JOSESwift.framework
+${BUILT_PRODUCTS_DIR}/RecaptchaInterop/RecaptchaInterop.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FBAEMKit/FBAEMKit.framework/FBAEMKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework/FBSDKCoreKit
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FBSDKCoreKit_Basics/FBSDKCoreKit_Basics.framework/FBSDKCoreKit_Basics
+${PODS_XCFRAMEWORKS_BUILD_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework/FBSDKLoginKit

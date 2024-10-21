@@ -1,0 +1,6 @@
+framework module FRCore {
+  umbrella header "FRCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

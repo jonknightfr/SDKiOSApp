@@ -1,0 +1,18 @@
+${PODS_ROOT}/Target Support Files/Pods-SDK App/Pods-SDK App-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/FRCaptchaEnterprise/FRCaptchaEnterprise.bundle
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/AuthStepViewController.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/BooleanAttributeInputCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/ChoiceCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/ConfirmationCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/DeviceAttributeTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/IdPCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/IdPValueTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/KbaCreateCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/NameCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/PasswordCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/PollingWaitCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/TermsAndConditionsTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/TextOutputCallbackTableViewCell.nib
+${BUILT_PRODUCTS_DIR}/FRUI/FRUI.framework/WebAuthnCallbackTableViewCell.nib
+${PODS_CONFIGURATION_BUILD_DIR}/FRUI/FRUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/RecaptchaEnterprise/RecaptchaEnterpriseResources.bundle

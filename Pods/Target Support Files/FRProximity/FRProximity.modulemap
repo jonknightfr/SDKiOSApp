@@ -1,0 +1,6 @@
+framework module FRProximity {
+  umbrella header "FRProximity-umbrella.h"
+
+  export *
+  module * { export * }
+}

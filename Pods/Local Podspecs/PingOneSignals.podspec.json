@@ -1,0 +1,17 @@
+{
+  "name": "PingOneSignals",
+  "version": "5.2.1",
+  "summary": "PingOne Signals iOS SDK",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "homepage": "https://apidocs.pingidentity.com/pingone/native-sdks/v1/api/#pingone-risk-sdk-for-ios",
+  "authors": "Ping Identity",
+  "source": {
+    "http": "https://assets.pingone.com/signals/ios-sdk/5.2.1/PingOneSignals.tar.gz"
+  },
+  "ios": {
+    "vendored_frameworks": "Frameworks/PingOneSignals.xcframework"
+  },
+  "frameworks": "CoreMotion"
+}

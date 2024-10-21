@@ -1,0 +1,90 @@
+PODS:
+  - FBAEMKit (16.0.1):
+    - FBSDKCoreKit_Basics (= 16.0.1)
+  - FBSDKCoreKit (16.0.1):
+    - FBAEMKit (= 16.0.1)
+    - FBSDKCoreKit_Basics (= 16.0.1)
+  - FBSDKCoreKit_Basics (16.0.1)
+  - FBSDKLoginKit (16.0.1):
+    - FBSDKCoreKit (= 16.0.1)
+  - FRAuth (4.6.0):
+    - FRCore (~> 4.6.0)
+  - FRAuthenticator (4.6.0):
+    - FRCore (~> 4.6.0)
+  - FRCaptchaEnterprise (4.6.0):
+    - FRAuth (~> 4.6.0)
+    - RecaptchaEnterprise (~> 18.6.0)
+  - FRCore (4.6.0)
+  - FRDeviceBinding (4.6.0):
+    - FRAuth (~> 4.6.0)
+    - JOSESwift (~> 2.4.0)
+  - FRFacebookSignIn (4.6.0):
+    - FBSDKLoginKit (~> 16.0.1)
+    - FRAuth (~> 4.6.0)
+  - FRProximity (4.6.0):
+    - FRAuth (~> 4.6.0)
+  - FRUI (4.6.0):
+    - FRCaptchaEnterprise (~> 4.6.0)
+    - FRDeviceBinding (~> 4.6.0)
+  - JOSESwift (2.4.0)
+  - PingOneSignals (5.2.1)
+  - RecaptchaEnterprise (18.6.0):
+    - RecaptchaInterop (~> 100.0.0)
+  - RecaptchaInterop (100.0.0)
+  - SwiftyJSON (5.0.2)
+
+DEPENDENCIES:
+  - FRAuth
+  - FRAuthenticator
+  - FRDeviceBinding
+  - FRFacebookSignIn
+  - FRProximity
+  - FRUI
+  - PingOneSignals (from `https://assets.pingone.com/signals/ios-sdk/5.2.1/PingOneSignals.podspec`)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - FBAEMKit
+    - FBSDKCoreKit
+    - FBSDKCoreKit_Basics
+    - FBSDKLoginKit
+    - FRAuth
+    - FRAuthenticator
+    - FRCaptchaEnterprise
+    - FRCore
+    - FRDeviceBinding
+    - FRFacebookSignIn
+    - FRProximity
+    - FRUI
+    - JOSESwift
+    - RecaptchaEnterprise
+    - RecaptchaInterop
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  PingOneSignals:
+    :podspec: https://assets.pingone.com/signals/ios-sdk/5.2.1/PingOneSignals.podspec
+
+SPEC CHECKSUMS:
+  FBAEMKit: daac7466b918752f020345be5c7d9787f98cfc07
+  FBSDKCoreKit: 2cb033464b2134af0138f87d20b859eb3f9be359
+  FBSDKCoreKit_Basics: d37280da2e65872f0e931d15f45d97ea324fec37
+  FBSDKLoginKit: c47a3b90920702487b10b647c63520dc2676dad9
+  FRAuth: 8ee626b80066ac112fd2ffd06a137e2402631e75
+  FRAuthenticator: cda34b37b0ad2238c1931d77e6b2452f93f3cb0e
+  FRCaptchaEnterprise: 32067e05a7eff001c97b1f631f39c53f37c44436
+  FRCore: 46f35e02a80106d8a74c75cd3bfd81e619c20a52
+  FRDeviceBinding: 4323108c62f2856c534b858971f43b92b888d8ed
+  FRFacebookSignIn: 1d050aa847e874337c4eb635568835b467e8e9cd
+  FRProximity: fb457370259602ab762e2b7aa2abf6a27720d244
+  FRUI: 1a5cff5ee6506afe482cd1683f10158aa8426d27
+  JOSESwift: 7ff178bb9173ff42c6e990929a9f2fa702a34f69
+  PingOneSignals: 9434655aa44344f8988847ea5a2d0aa39c6e84bb
+  RecaptchaEnterprise: 336a5178eb484cd049b2b04bbe1ca1d60fff1227
+  RecaptchaInterop: 7d1a4a01a6b2cb1610a47ef3f85f0c411434cb21
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+
+PODFILE CHECKSUM: b1d527ae846c1b02fc0c12eda4974d848ea07ccf
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,6 @@
+framework module FRAuth {
+  umbrella header "FRAuth-umbrella.h"
+
+  export *
+  module * { export * }
+}

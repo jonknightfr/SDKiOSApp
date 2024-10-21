@@ -1,0 +1,6 @@
+framework module FRFacebookSignIn {
+  umbrella header "FRFacebookSignIn-umbrella.h"
+
+  export *
+  module * { export * }
+}

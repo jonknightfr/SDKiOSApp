@@ -1,0 +1,5 @@
+framework module PingOneSignals {
+    umbrella header "PingOneSignalsSDK.h"
+    export *
+    module * { export * }
+}
